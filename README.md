@@ -1,18 +1,20 @@
-# Working Group Name
+# glt.fi
 
 ## About: 
-Description of working working group
+Open source tooling and shortcode for glTF asset sharing and portability, tracking and extensions
+
+## FAQ:
+Question: Who hosts this?
+
+Who is developing glt.fi?
+
+Who are the partners of this project?
 
 ## How you can get involved: 
-- The group meets on _____ days every _____ week(s) at _____ UTC (24:00 Format) 
-- We track our active tickets with our [Github Projects Kanban Backlog](../../projects/1?add_cards_query=is%3Aopen)
-- We organize our backlog with intent using github [Milestones](../../milestones) which makes it easier to track progress based on desired outcomes and objectives.
-- We discuss our efforts using [github discussions](../../discussions)
-- Any questions? Contact the designated working group lead(s) ______
+- This open source development group meets on the first Tuesday of the month at 9AM PST
+- We track our active tickets on github
+- We organize our backlog with intent using github 
+- We discuss our efforts using github
+- Any questions? Contact evo
 
-Our Commitments: 
-- Recurring meeting is at ___ 
-- Our [working agreement can be found here](../../discussions) on github discussions
-- We have a group retrospective on the 4th ___ of every month to reflect on what is going well, what could be improved, and what we will do differently next cycle. 
-- We will / or will not be recording our meetings and you can or can not find those meeting recordings here
-- We will create an agenda before our recurring meetings, and take notes during our meeting. 
+
