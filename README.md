@@ -1,8 +1,9 @@
-# glt.fi
+# glt.fi = pronounced GLITIFY
 
 ## About: 
 Open source tooling and shortcode for glTF asset sharing and portability, tracking and extensions
-Welcome to the Javascript URL Shortener for glTF 3D assets! This open source tool allows you to easily share and embed glTF 3D assets, art, and other resources on the web.
+
+Welcome to the URL Shortener for glTF 3D assets! This open source tool allows you to easily share and embed glTF 3D assets, art, and other resources on the web.
 
 The goal of this tool is to provide a simple and easy-to-use solution for sharing and embedding glTF assets on the web, while also giving proper attribution to the creators of these assets. To accomplish this, we have implemented a number of features including:
 
